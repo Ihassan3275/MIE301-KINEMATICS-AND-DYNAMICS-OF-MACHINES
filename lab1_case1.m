@@ -1,5 +1,5 @@
 %%% MIE301 Lab 1 - Case 1: Link 3 hangs free under gravity
-%% This file contains code from MIE301 instructors and Ibrahim Hassan
+%% This file may contain some annotations from MIE301 instructors
 %% This file includes all MATLAB code used for parts (a), (b), and (c)
 %% To generate expected results, you will have to comment/uncomment the lines of code for each part.
 %%
